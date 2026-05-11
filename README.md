@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কেমন আছো তুমি আজ, আমার এই নিঝুম রাতে
+> খুঁজছি তোমার উষ্ণ পরশ, আমার এই শূন্য হাতে
+> আছি আমি তোমার ছায়ায়, অচিন এক প্রেমের ঘোরে
+> জড়িয়ে নাও আপন করে, তোমার ওই দুবাহু ডোরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
