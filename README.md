@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kemon-acho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Kemon Acho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kemon-acho/) |
+| **Get License** | [Get a Licensing Quote for Kemon Acho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kemon-acho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `169502f4eacb533f9102f4fc07cabb68167ffecd661b669f614e6f8f0a61cb58` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kemon-acho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Kemon Acho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kemon-acho/) |
+| **Get License** | [Get a Licensing Quote for Kemon Acho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kemon-acho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কেমন আছো তুমি আজ, আমার এই নিঝুম রাতে
+> খুঁজছি তোমার উষ্ণ পরশ, আমার এই শূন্য হাতে
+> আছি আমি তোমার ছায়ায়, অচিন এক প্রেমের ঘোরে
+> জড়িয়ে নাও আপন করে, তোমার ওই দুবাহু ডোরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `169502f4eacb533f9102f4fc07cabb68167ffecd661b669f614e6f8f0a61cb58` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
